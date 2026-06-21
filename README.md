@@ -1,7 +1,7 @@
 # Hi, I'm [Stephen]
 
 ## About Me
-- I'm currently learning [I'm study artificial intelligence in WWecan Academy].
+- I'm currently learning [I'm study artificial intelligence in Wecan Academy].
 - I'm interested in [My intrest are in "AI, web development, and Computer Science"].
 - I'm looking to collaborate on [, "beginner-friendly open source projects"].
 
